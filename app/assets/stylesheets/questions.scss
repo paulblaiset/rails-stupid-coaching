@@ -1,0 +1,28 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+h1 {
+  font:Helvetica;
+  font-weight:bold;
+}
+
+li {
+  border-left-style: groove;
+  padding-left: 10px;
+  list-style-type:none;
+}
+
+.answer {
+  background-color: #FFFEE3;
+}
+
+input {
+  width: 100%;
+}
+
+.row {
+ width: 100%;
+}
+
